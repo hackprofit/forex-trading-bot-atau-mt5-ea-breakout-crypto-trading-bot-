@@ -10,7 +10,8 @@ This is an automated trading bot designed for MetaTrader 5 using breakout strate
 - ATR-based strategy
 - Multi-position control
 
-
+## Backtest
+FOREXPAIR.png
 
 ## 🛠️ How to Use
 1. Copy file to MT5
